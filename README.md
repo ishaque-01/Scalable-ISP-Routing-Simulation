@@ -12,7 +12,7 @@ Includes configurations for complex customer requirements, such as Router-on-a-S
 
 <ul>
   <li> 
-  # Architecture: 
+  Architecture: 
     Connects three distinct customer areas (Housing, Organization, Mall) to a central ISP HQ via a scalable 200.0.0.0/24 backbone.
   </li>
 </ul>
